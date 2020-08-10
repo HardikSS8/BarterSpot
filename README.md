@@ -4,10 +4,9 @@ BarterSpot is an Android Mobile Application which provides the better interface 
 ## Requirements
 
 1. Library: Picasso, Retrofit
-2. Programming Langauge: Java
-3. Editing tools for UI: Figma, Photoshop
+2. Programming Language: Java
+3. Tools: Android Studio, Figma, Photoshop
 4. Database: Firebase
-
 
 ## Features
 
